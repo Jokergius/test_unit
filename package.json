@@ -1,0 +1,23 @@
+{
+  "name": "test_unit",
+  "version": "1.0.0",
+  "main": "math_file.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iadvance/unit_test_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iadvance/unit_test_repo/issues"
+  },
+  "homepage": "https://github.com/iadvance/unit_test_repo#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
